@@ -117,13 +117,33 @@ Blood smears remain the gold standard for malaria diagnosis. The process involve
 ### Late Trophozoite stage
 ![image](https://github.com/user-attachments/assets/a4e58d9f-6b79-4dd2-886d-c18c23f3cbdd)
 ![image](https://github.com/user-attachments/assets/078332a6-a745-43b4-822d-15933aa8d6f5)
+![image](https://github.com/user-attachments/assets/1a62cd96-d880-49d6-8232-1f87f86a5f8e)
+![image](https://github.com/user-attachments/assets/55a7181b-4ea5-4279-8b36-83c8afbad0bd)
+![image](https://github.com/user-attachments/assets/0cbdd7e6-00e2-4309-8670-475ebe33f860)
+![image](https://github.com/user-attachments/assets/adb74b7d-0b58-4e79-bba7-714481dd4c43)
+![image](https://github.com/user-attachments/assets/2bf33f96-e4f8-4902-90c4-ed4c658fbe29)
 
+### Schizonts 
+![image](https://github.com/user-attachments/assets/a2b9e7e1-4347-499e-94ed-cebc0456be10)
+![image](https://github.com/user-attachments/assets/4bd62e29-3e66-44ab-bb95-507e8d871927)
+![image](https://github.com/user-attachments/assets/9797a7c1-21a4-4f79-a5c3-cc21bf3daaa9)
+![image](https://github.com/user-attachments/assets/1a58c914-691f-4f47-a1d3-a0ce88977811)
 
+## Gametocytes
+![image](https://github.com/user-attachments/assets/dca65095-2cce-43e8-80bb-5510a69b5583)
+![image](https://github.com/user-attachments/assets/49be7e04-3ba8-41bd-91e7-70df3166d60b)
+![image](https://github.com/user-attachments/assets/f2f4871a-8924-4d3d-b4ab-ec04a55067a0)
+![image](https://github.com/user-attachments/assets/dd59c207-193a-497e-a50e-4e8e3a64c83a)
+![image](https://github.com/user-attachments/assets/1b62efb3-c5c0-426a-a83c-075d0c767656)
+![image](https://github.com/user-attachments/assets/c9601afc-402f-4ded-aac9-675fcf8e677c)
+![image](https://github.com/user-attachments/assets/3962bd29-ea0e-47a2-9d27-4c54750d6e76)
+![image](https://github.com/user-attachments/assets/911c43a6-50c7-40f4-86f0-07928f590b54)
 
+## Effect in RBC
+![image](https://github.com/user-attachments/assets/e80846ea-0c7e-4010-8a0b-09d69189f9c1)
 
-
-
-
+## Schuffner's Dots
+![image](https://github.com/user-attachments/assets/603f608a-8cf4-4a36-b0e0-cc688cf5523c)
 
 
 
