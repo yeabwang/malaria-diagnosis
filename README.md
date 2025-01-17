@@ -84,3 +84,26 @@ Blood smears remain the gold standard for malaria diagnosis. The process involve
 - Skill-dependent; requires experienced microscopists.
 - Time-consuming and labor-intensive.
 - Low sensitivity in cases with low parasitemia or early stages of infection.
+
+- ---
+
+![image](https://github.com/user-attachments/assets/1a87fa53-a28d-4295-9dd3-2a99181aa46c)
+
+### Erythrocytic Phase of Malaria
+
+- **Invasion**: Merozoites released from the liver enter red blood cells (erythrocytes).
+- **Development**: Inside red blood cells, the parasite transforms into trophozoites, which mature into schizonts.
+- **Reproduction**: Schizonts undergo division to produce new merozoites.
+- **Release**: Merozoites are released when red blood cells rupture, causing symptoms like fever, chills, and sweating.
+- **Cycle Continuation**: New merozoites invade additional red blood cells, perpetuating the cycle and exacerbating the disease.
+
+![image](https://github.com/user-attachments/assets/f68372c8-c933-4bc6-97e2-7bfcba087a48)
+
+## Malaria under microscope
+### Ring stage
+![image](https://github.com/user-attachments/assets/53eb51a8-38a6-4d79-9669-5f18bc13c181)
+![image](https://github.com/user-attachments/assets/136b24da-359b-42fd-9e07-ba7504a4d02b)
+![image](https://github.com/user-attachments/assets/51b60ab5-76e7-4e97-ad73-2a4baf48af44)
+
+
+
