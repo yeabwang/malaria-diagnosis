@@ -100,10 +100,68 @@ Blood smears remain the gold standard for malaria diagnosis. The process involve
 ![image](https://github.com/user-attachments/assets/f68372c8-c933-4bc6-97e2-7bfcba087a48)
 
 ## Malaria under microscope
-### Ring stage
+![image](https://github.com/user-attachments/assets/d26eb661-47c1-4a63-ad67-29eda1fe4d6a)
+
+### (Early Trophozoite) Ring stage
 ![image](https://github.com/user-attachments/assets/53eb51a8-38a6-4d79-9669-5f18bc13c181)
 ![image](https://github.com/user-attachments/assets/136b24da-359b-42fd-9e07-ba7504a4d02b)
 ![image](https://github.com/user-attachments/assets/51b60ab5-76e7-4e97-ad73-2a4baf48af44)
+![image](https://github.com/user-attachments/assets/d09840a3-f229-4fba-bcda-f55fbb25d528)
+![image](https://github.com/user-attachments/assets/c195c282-acfc-4ff9-88c8-ab71c8d44f0f)
+![image](https://github.com/user-attachments/assets/9e8bde6e-194a-4510-9157-b42832bf3337)
+![image](https://github.com/user-attachments/assets/8fd7067f-015e-4ee6-b957-91c912ca30e9)
+![image](https://github.com/user-attachments/assets/d1aa7124-0e15-4027-90cc-d3cf41b0367e)
+![image](https://github.com/user-attachments/assets/71b4c04d-4648-40d0-b51e-36a0b34aa546)
+![image](https://github.com/user-attachments/assets/061b9670-a4fe-4e15-b44b-71c7a5ae2fcb)
+
+### Late Trophozoite stage
+![image](https://github.com/user-attachments/assets/a4e58d9f-6b79-4dd2-886d-c18c23f3cbdd)
+![image](https://github.com/user-attachments/assets/078332a6-a745-43b4-822d-15933aa8d6f5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
