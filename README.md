@@ -1,4 +1,34 @@
-# Malaria Overview
+# Malaria Diagnosis V 1.1
+
+## About the Model
+This binary classification model aims to diagnose malaria by classifying infected cells. The model is trained on the [malaria dataset](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets), which contains 27,558 cell images from blood smears. I split the dataset into three sets for training, validation, and testing, with a ratio of 0.8/0.1/0.1, respectively. The images are augmented using custom and Keras layer augmentations, including resizing, rescaling, random horizontal and vertical flips, random rotations, zooming, adding noise, and varying brightness to enhance the model's versatility.
+
+The model consists of three convolutional layers for feature extraction, each followed by max pooling. It also includes three dense layers, each with a dropout layer (rate = 0.5). ReLU is used in the hidden layers, and sigmoid is used in the output layer.
+
+- Optimizer: Adam with a learning rate of 0.001
+- Loss function: Binary Cross-Entropy
+- Trained for 10 epochs, with 689 batches of images per epoch.
+
+### Accuracy and Loss Graph
+The model achieves an accuracy of 95.61% and a loss of 0.17.
+
+![Accuracy and Loss Graph](https://github.com/user-attachments/assets/43dc9fa0-d6d3-40cf-8c5e-0d9f9bb32ed4)
+![Accuracy and Loss Graph](https://github.com/user-attachments/assets/ba8a7677-b61d-4971-99df-ad4acc962584)
+
+### ROC Curve
+![ROC Curve](https://github.com/user-attachments/assets/1b2695db-665c-4de5-885c-16159aeb9f9c)
+
+### Confusion Matrix
+**F1 Score:** 0.9576  
+
+![Confusion Matrix](https://github.com/user-attachments/assets/5cd1ec97-bfc6-4b04-b696-6e9a58854382)
+
+### Sample Prediction
+![Sample Prediction](https://github.com/user-attachments/assets/b960fc6c-91c7-41d9-9389-2bf848e6f31b)
+
+---
+
+# About the Disease
 
 ## Definition and Cause
 Malaria is a life-threatening disease transmitted to humans primarily through the bites of infected female *Anopheles* mosquitoes. It is caused by a parasitic infection, specifically by five *Plasmodium* species. Malaria is most prevalent in tropical regions and is both preventable and curable. The disease does not spread directly from person to person but can also be transmitted through blood transfusions and contaminated needles.
